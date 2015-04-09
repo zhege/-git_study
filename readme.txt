@@ -4,7 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 The first github committe.
 Creating a new branch is quick.
-test1
+test8
 test2
 Creating a new branch is quick AND simple.
 Test3
