@@ -6,3 +6,4 @@ The first github committe.
 Creating a new branch is quick.
 test1
 test2
+Creating a new branch is quick AND simple.
