@@ -8,4 +8,5 @@ test8
 test2
 Creating a new branch is quick AND simple.
 Test3
+debug
 
